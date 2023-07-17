@@ -1,0 +1,76 @@
+.sixth_section{
+    padding: 160px 120px 130px 120px; 
+    background: #eaca1c;
+}
+
+.sixth_section_content{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 120px;
+}
+
+.sixth_section_text{
+    align-self: center;
+}
+
+.sixth_section_text .second_title{
+    margin-bottom: 25px;
+    line-height: 1.1;
+}
+
+
+
+.sixth_section_form{
+    background: #000;
+    color: #fff;
+    padding: 60px 55px 50px 55px;
+}
+
+.labels{
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.name_surname{
+    display: flex;
+    column-gap: 30px;
+}
+
+.name_input, .surname_input, .etc_input, .etc_textarea{
+    background: #000;
+    border: 2px solid #fff;
+    outline: none;
+    color: #fff;
+}
+
+.name_input, .surname_input{
+    width: 225px;
+    height: 35px;
+   
+}
+
+.etc .labels{
+    display: block;
+    margin-top: 13px;
+}
+
+.etc_input{
+    width: 480px;
+    height: 35px;
+}
+
+.etc_textarea{
+    display: block;
+    width: 480px;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+.button_submit{
+    width: 150px;
+    height: 40px;
+    background: #e4cb21;
+    color: black;
+    margin-top: 20px;
+    display: block;
+}

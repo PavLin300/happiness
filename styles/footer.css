@@ -1,0 +1,45 @@
+footer{
+    width: 100%;
+    background: #000;
+    padding: 60px;
+}
+
+.footer_logo{
+    display: block;
+}
+
+.footer_links_block{
+    display: flex;
+    column-gap: 50px;
+    margin-top: 125px;
+    margin-bottom: 160px;
+}
+
+
+.footer_links{
+    list-style: none;
+    color: #fff;
+    display: inline-block; 
+} 
+
+.link_item{
+    transition-duration: .4s;
+}
+
+.link_item:hover{
+    color: #e4cb21;
+    cursor: pointer;
+}
+
+.footer_text{
+    color: #e4cb21;
+    display: inline-block;
+    
+}
+
+
+.text_in_footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+}

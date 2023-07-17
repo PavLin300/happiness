@@ -1,0 +1,21 @@
+.seventh_section{
+    padding: 110px 135px 60px 135px;
+}
+
+.seventh_section_text{
+    text-align: center;
+    padding-top: 45px;
+}
+
+.seventh_section_text .black_button{
+    margin: 30px auto;
+}
+
+.seventh_section_text .second_title{
+    margin-bottom: 5px;
+}
+
+
+.seventh_section_picture{
+    width: 100%;
+}

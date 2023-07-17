@@ -1,0 +1,28 @@
+.first_section{
+    width: 100%;
+    background: #000;
+    padding: 336px 125px 140px 125px; 
+}
+
+.first_section h1{
+    color: #e0c838;
+    
+}
+
+.title_in_first_section{
+    text-align: right;
+}
+
+.pictures_in_first_section{
+    display: flex;
+    justify-content: space-between;
+}
+
+.grafic_and_button{
+    padding: 45px;
+    text-align: right;
+}
+
+.grafic_and_button a{
+    display: inline-block;
+}

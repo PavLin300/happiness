@@ -1,0 +1,598 @@
+@media  screen and (max-width: 1320px){
+    /*general*/
+
+    .biggest_title{
+        font-size: 50px;
+        margin-bottom: 10px;
+    }
+
+    .second_title{
+        font-size: 37px;
+    }
+
+    .container{
+        max-width: 1200px;
+    }
+
+    /*additional block*/
+    .additional_block{
+        max-width: 1000px;
+        
+    }
+    
+
+    .one_in_additional, .two_in_additional{
+        width: 150px;
+        height: 150px;
+    }
+
+    .additional_content{
+        padding: 100px 70px;
+    }
+
+    .additional_images{
+        align-items: center;
+    }
+    
+    
+    /*first_section*/
+
+    .first_section{
+        padding-top: 400px ;
+    }
+
+    .one_in_first_section{
+        width: 600px;
+        height: 400px;
+    }
+
+    .two_in_first_section{
+        width: 230px;
+        height: 230px;
+        
+    }
+
+    /*second_section*/
+
+    
+
+    .img_in_second_section{
+        width: 450px;
+        height: 450px;
+    }
+
+    .logo_in_second_section{
+        width: 170px;
+        height: 170px;
+    }
+
+    .picture_in_second_section{
+        display: flex;
+        align-items: center;
+    }
+
+    /*third_section*/
+
+    .picture_in_third_section{
+        width: 800px;
+
+    }
+
+
+    /*fourth_section*/
+
+    .fourth_section_picture {
+        width: 520px;
+        height: 420px;
+    }
+
+    /*fifth_section*/
+
+    .fifth_section_picture{
+        width: 540px;
+        height: 480px;
+    }  
+}
+
+@media screen and (max-width: 1100px){
+    /*general*/
+    .container{
+        max-width: 900px;
+        padding: 10px;
+    }
+
+    .yellow_button{
+        margin-top: 20px;
+    }
+
+    /*header*/
+
+    header{
+        height: 850px;
+    }
+
+    .header_picture{
+        width: 370px;
+        height: 302px;
+    }
+
+    .content_image{
+        align-self: center;  
+    }
+
+    .content{
+        padding: 80px 30px;
+    }
+
+    /*additional_block*/
+
+    
+    .additional_block{
+        max-width: 700px;
+    }
+
+    .additional_images{
+        column-gap: 35px;
+    }
+
+    .additional_content{
+        padding: 50px 25px;
+    }
+
+    /*first_section*/
+    .first_section{
+        padding: 236px 75px 100px 75px; 
+    }
+
+    .one_in_first_section{
+        width: 470px;
+        height: 270px;
+    }
+
+    .two_in_first_section{
+        width: 155px;
+        height: 155px;
+    }
+
+    .grafic_and_button{
+        padding: 10px;
+    }
+
+    /*second_section*/
+
+    .second_section{
+        padding: 50px;
+    }
+    .content_in_second_section{
+        column-gap: 0px;
+    }
+    .text_in_second_section{
+        padding: 15px;
+    }
+
+    .logo_in_second_section{
+        width: 140px;
+        height: 140px;
+    }
+
+    .img_in_second_section{
+        width: 375px;
+        height: 375px;
+    }
+
+    /*third_section*/
+
+    .picture_in_third_section{
+        width: 700px;
+        height: 400px;
+    }
+
+    .third_section_text{
+        padding: 30px 200px 0px 200px;
+    }
+
+    /*fourth_section*/
+    .fourth_section{
+        padding: 75px;
+    }
+
+    .fourth_section_content{
+        column-gap: 20px;
+    }
+
+    .fourth_section_content_img{
+        align-self: center;
+    }
+
+    .fourth_section_picture{
+        width: 415px;
+        height: 315px;
+    }
+
+    /*fifth_section*/
+
+    .fifth_section{
+        padding: 50px;
+    }
+
+    .fifth_section_picture{
+        width: 440px;
+        height: 380px;
+    }
+
+    .fifth_section_content{
+        column-gap: 30px;
+    }
+
+    /*sixth_section*/
+
+    .sixth_section{
+        padding: 50px;
+    }
+
+    .sixth_section_content{
+        column-gap: 30px;
+    }
+
+    .sixth_section_form{
+        padding: 23px;
+    }
+
+    .name_input, .surname_input{
+        width: 170px;
+    }
+
+    .etc_input{
+        width: 370px;
+    }
+
+    .etc_textarea{
+        width: 370px;
+        height: 100px;
+    }
+
+    /*seventh_section*/
+
+    .seventh_section{
+        padding: 50px;
+    } 
+}
+
+@media  screen and (max-width: 770px){
+
+    /*general*/
+
+    .container{
+        max-width: 570px;
+    }
+
+    .biggest_title{
+        font-size: 40px;
+    }
+
+    .second_title{
+        font-size: 30px;
+    }
+
+    .black_button{
+        margin-top: 20px;
+    }
+
+   /*header*/
+
+   .menu_button{
+    display: block;
+   }
+
+   .menu_links{
+    display: none;
+   }
+
+   .content_inner{
+        flex-direction: column-reverse;
+   }
+
+   .content_text{
+        padding: 20px;
+        width: 100%;
+   }
+
+   .content{
+        padding: 100px 30px 0px 30px;
+   }
+
+   /*additional_block*/
+
+   .additional_content{
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    row-gap: 20px;
+   }
+
+   .additional_text{
+    max-width: 100%;
+   }
+
+   .one_in_additional, .two_in_additional{
+    height: 110px;
+    width: 110px;
+   }
+
+   .additional_block{
+    max-width: 570px;
+   }
+
+   .link_in_additional{
+    margin-top: 10px;
+   }
+
+   /*first_section*/
+
+   .first_section{
+    padding: 236px 50px 100px 50px;
+   }
+
+
+   .one_in_first_section{
+    width: 300px;
+    height: 200px;
+   }
+
+   .two_in_first_section{
+    width: 100px;
+    height: 100px;
+   }
+
+   /*second_section*/
+
+   .content_in_second_section{
+        flex-direction: column-reverse;
+        row-gap: 20px;
+   }
+
+   .picture_in_second_section{
+     align-self: center;
+   }
+
+   .logo_in_second_section{
+        width: 100px;
+        height: 100px;
+   }
+
+   .text_in_second_section h1{
+        margin-top: 20px;
+        margin-bottom: 15px;
+   }
+    
+   /*third_section*/
+
+   .third_section{
+    padding: 30px;
+   }
+
+   .picture_in_third_section{
+        width: 500px;
+        height: 300px;
+   }
+
+   .third_section_text{
+        padding: 30px;
+   }
+
+   /*fourth_section*/
+
+   .fourth_section_content{
+        flex-direction: column-reverse;
+        row-gap: 20px;
+   }
+
+   /*fifth_section*/
+
+   .fifth_section_content{
+    flex-direction: column;
+    row-gap: 20px;
+   }
+
+   .fifth_section_image{
+    align-self: center;
+   }
+
+   .fifth_section_picture{
+    width: 400px;
+    height: 340px;
+   }
+
+   /*sixth_section*/
+
+   .sixth_section_content{
+    flex-direction: column;
+    row-gap: 30px;
+   }
+
+   .sixth_section_form{
+    max-width: 430px;
+    align-self: center;
+   }
+
+   /*footer*/
+
+   .footer_links_block{
+    margin-top: 50px;
+    margin-bottom: 70px;
+   }
+}
+
+@media  screen and (max-width: 600px){
+    /*general*/
+
+    .container{
+        max-width: 400px;
+    }
+
+    .biggest_title{
+        font-size: 30px;
+    }
+
+    .second_title{
+        font-size: 25px;
+    }
+
+    .yellow_button,.black_button{
+        width: 115px;
+        padding: 10px;
+    }
+
+    /*additional_block*/
+
+    .additional_block{
+        max-width: 400px;
+    }
+
+    /*first_section*/
+
+    .first_section{
+        padding-top: 270px;
+    }
+
+    .pictures_in_first_section{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .grafic_and_button{
+        display: flex;
+        column-gap: 50px;
+    }
+
+    .grafic_and_button a{
+        display: block;
+        align-self: center;
+    }
+
+    .grafic_and_button .yellow_button{
+        margin-top: 0px;
+    }
+
+    /*second_section*/
+    
+    .img_in_second_section{
+        width: 270px;
+        height: 270px;
+    }
+
+    /*third_section*/
+
+    .picture_in_third_section{
+        width: 370px;
+        height: 250px;  
+    }
+
+    .third_section_text{
+        padding: 10px;
+    }
+
+    /*fourth_section*/
+
+    .fourth_section_picture{
+        width: 370px;
+    }
+
+    /*fifth_section*/
+
+    .fifth_section_picture{
+        width: 370px;
+    }
+}
+
+@media  screen and (max-width: 450px){
+
+    /*general*/
+
+    .container{
+        max-width: 300px;
+    }
+
+    /*header*/
+    .header_picture{
+        width: 270px;
+        height: 200px;
+    }
+
+    /*additional_block*/
+
+    .additional_block{
+        max-width: 300px;
+    }
+
+    .additional_content{
+        row-gap: 40px;
+    }
+
+    /*first_section*/
+
+    .one_in_first_section{
+        width: 270px;
+    }
+
+    /*second_section*/
+
+    .img_in_second_section{
+        width: 250px;
+    }
+
+    /*third_section*/
+
+    .picture_in_third_section{
+        width: 270px;
+        height: 200px;
+    }
+
+    .third_section_text h2{
+        font-size: 20px;
+    }
+
+
+    /*fourth_section*/
+
+    .fourth_section{
+        padding: 30px;
+    }
+
+    .fourth_section_picture{
+        width: 270px;
+        height: 215px;
+    }
+
+    /*fifth_section*/
+
+    .fifth_section_picture{
+        width: 270px;
+        height: 240px;
+    }
+
+    /*sixth_section*/
+
+    .sixth_section_form{
+        max-width: 300px;
+    }
+
+    .name_surname{
+        flex-direction: column;
+    }
+
+    .name .labels{
+        margin-right: 30px ;
+    }
+
+    .surname .labels{
+        margin-right: 7px;
+    }
+
+    .etc_input, .etc_textarea{
+        width: 250px;
+    }
+}
+
+
+

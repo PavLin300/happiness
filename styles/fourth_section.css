@@ -1,0 +1,19 @@
+.fourth_section{
+    padding: 120px;
+}
+
+.fourth_section_content{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 100px;
+}
+
+.fourth_section_content_text .second_title{
+    font-weight: 100;
+    line-height: 1.1;
+}
+
+.fourth_section_content_text{
+    align-self: center;
+}
+

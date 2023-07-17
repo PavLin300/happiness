@@ -1,0 +1,25 @@
+.second_section{
+    width: 100%;
+    background: #fff;
+    padding: 95px;
+}
+
+.content_in_second_section{
+    width: 100%;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2), 0 16px 20px rgba(0,0,0,0.2);
+    display: flex;
+    background: #e5e5e5;
+    column-gap: 40px;
+}
+
+.text_in_second_section{
+    align-self: center;
+    padding: 60px;
+}
+
+
+.text_in_second_section h1{
+    color: #eaca1c;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}

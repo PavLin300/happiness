@@ -1,0 +1,25 @@
+.third_section{
+    width: 100%;
+    background: #e0c838;
+    padding: 75px 0px 65px 0px;
+}
+
+
+.third_section_image{
+    text-align: center;
+}
+
+
+.third_section_text{
+    text-align: center;
+    padding: 30px 270px 0px 270px;
+}
+
+.third_section_text .black_button{
+    margin: 20px auto;
+}
+
+.third_section_text h2{
+    margin-bottom: 20px;
+}
+

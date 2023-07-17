@@ -1,0 +1,19 @@
+.fifth_section{
+    padding: 105px 120px 105px 85px;
+    background: #e5e5e5;
+}
+
+.fifth_section_content{
+    display: flex;
+    justify-content: space-between;
+    column-gap: 70px;
+}
+
+.fifth_section_text .biggest_title{
+    color: #eaca1c;
+}
+
+.fifth_section_text{
+    align-self: center;
+}
+
